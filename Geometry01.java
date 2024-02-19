@@ -18,6 +18,7 @@ public class Geometry01 {
         System.out.println("(X1:"+g1.x+" Y1:"+g1.y+")"+"(X2:"+g2.x+" Y2:"+g2.y+")");
         System.out.println("Distance: "+Distance);
         System.out.println("Angle: "+Angle);
+         System.out.println("Angle: Hi");
 
 
     }
